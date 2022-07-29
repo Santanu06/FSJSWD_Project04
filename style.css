@@ -1,0 +1,83 @@
+.container{
+    margin: 50px;
+}
+.navbar-container div{
+    display: inline-block;
+}
+.grow-list{
+    position: absolute;
+    top:60px;
+    left:250px;
+}
+.list-item{
+    display: inline;
+    margin-right: 20px;
+    color: #666262;
+}
+.button-group .nav-button{
+    padding: 10px 15px;
+    background-color: #5955b3;
+    border: 1px solid #5955b3;
+    border-radius: 8px;
+    color: azure;
+}
+.button-group {
+    position: absolute;
+    right: 70px;
+    
+}
+/* .heading-text{
+    position: absolute;
+    top:200px;
+    color: #3c2f60;
+    font-size: 60px;
+}
+.heading-text span{
+    color: #5955b3;
+}
+
+.description{
+    position: absolute;
+    top: 460px;
+    color: #666262;
+}
+
+.banner-image img{
+    width: 800px;
+} */
+.heading-text{
+    position: absolute;
+    top:175px;
+    color: #3c2f60;
+    font-size: 70px;
+}
+.heading-text span{
+    color: #5955b3;
+}
+.description{
+    position: absolute;
+    top: 470px;
+    color: #666262;
+}
+.banner-image{
+    position: absolute;
+    right: 0px;
+    top: 120px;
+}
+.banner-container div{
+    display: inline-block;
+}
+
+.banner-container img{
+    width: 780px;
+}
+
+.nav-button.btn{
+    padding: 10px 25px;
+    background-color: #5955b3;
+    border: 1px solid #5955b3;
+    border-radius: 8px;
+    color: azure;
+    position: absolute;
+    bottom: 20px;
+}
